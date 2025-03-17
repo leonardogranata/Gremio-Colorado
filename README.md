@@ -5,7 +5,6 @@ O **Grêmio Colorado** é um projeto do SENAI feito para treinar habilidades com
 - Exibição de feriados escolares 🗓️
 - Divulgação de eventos 📢
 - Calendário acadêmico 📆
-- Sistema de login 🔐
 
 Este projeto utiliza **HTML, CSS e JavaScript** para o front-end, proporcionando uma interface intuitiva e acessível para os usuários.
 
