@@ -26,29 +26,29 @@ Este projeto utiliza **HTML, CSS e JavaScript** para o front-end, proporcionando
 
 ## 📂 Estrutura do Projeto
 ```
-SchoolConnect/
 │── index.html         # Página inicial
-│── login.html         # Página de login
-│── eventos.html       # Página de eventos escolares
-│── calendario.html    # Página de calendário escolar
+│── cadastro.html         # Página de login
+│── equipe.html       # Página sobre a equipe
+│── galeria.html    # Página de imagens escolares
+│── agenda.html    # Página de calendário escolar
+│── sobrenos.html    # Página sobre a escola
+│── validacao_gremio.html    # Página de validação de cadastro
 │
-├── css/
-│   ├── style.css      # Estilos globais
+├── _css
+│   ├── style.css      # Estilos página inicial
+│   ├── agenda.css    # Estilos agenda
+│   ├── cadastro.css    # Estilos cadastro
+│   ├── equipe.css    # Estilos equipes
+│   ├── galeria.css    # Estilos galeria
+│   ├── sobre_nos.css    # Estilos sobre nós
 │
-├── js/
-│   ├── script.js      # Scripts de funcionalidades
+├── _javascript
+│   ├── main.js      # Scripts de funcionalidades
 │
-└── assets/
-    ├── images/        # Imagens do projeto
+├── _imagens
+│   ├── # Todas imanges utilizadas
+
 ```
-
----
-
-## 🔒 Credenciais de Acesso (Exemplo)
-- **Usuário:** aluno123
-- **Senha:** senha123
-
-> **Nota:** O sistema de login ainda está em desenvolvimento e poderá ser integrado a um banco de dados no futuro.
 
 ---
 
