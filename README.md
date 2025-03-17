@@ -1,7 +1,7 @@
 # 📚 Grêmio Colorado - Sistema de Comunicação Escolar
 
 ## 📌 Sobre o Projeto
-O **SchoolConnect** é um projeto do SENAI feito para treinar habilidades com o front-end fazendo um site escolar para melhorar a comunicação entre escolas e alunos, oferecendo funcionalidades essenciais como:
+O **Grêmio Colorado** é um projeto do SENAI feito para treinar habilidades com o front-end fazendo um site escolar para melhorar a comunicação entre escolas e alunos, oferecendo funcionalidades essenciais como:
 - Exibição de feriados escolares 🗓️
 - Divulgação de eventos 📢
 - Calendário acadêmico 📆
@@ -12,8 +12,6 @@ Este projeto utiliza **HTML, CSS e JavaScript** para o front-end, proporcionando
 ---
 
 ## 🚀 Funcionalidades
-✅ Interface amigável e responsiva<br>
-✅ Cadastro e login de usuários<br>
 ✅ Visualização de feriados e eventos<br>
 ✅ Integração com um calendário escolar<br>
 
@@ -46,19 +44,6 @@ SchoolConnect/
 
 ---
 
-## 🏁 Como Executar o Projeto
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/SchoolConnect.git
-   ```
-2. Acesse a pasta do projeto:
-   ```bash
-   cd SchoolConnect
-   ```
-3. Abra o arquivo `index.html` no navegador.
-
----
-
 ## 🔒 Credenciais de Acesso (Exemplo)
 - **Usuário:** aluno123
 - **Senha:** senha123
@@ -68,6 +53,6 @@ SchoolConnect/
 ---
 
 ## 👨‍💻 Equipe de Desenvolvimento
-🚀 Desenvolvido por estudantes do **SENAI** no curso de **Desenvolvimento Web**.
+🚀 Desenvolvido por estudantes do **SENAI** no curso de **Desenvolvimento de Sistemas**.
 
-📌 **Seja bem-vindo ao SchoolConnect!**
+📌 **Seja bem-vindo ao Grêmio Colorado!**
