@@ -1,7 +1,7 @@
-# 📚 SchoolConnect - Sistema de Comunicação Escolar
+# 📚 Grêmio Colorado - Sistema de Comunicação Escolar
 
 ## 📌 Sobre o Projeto
-O **SchoolConnect** é um site desenvolvido para facilitar a comunicação entre escolas e alunos, oferecendo funcionalidades essenciais como:
+O **SchoolConnect** é um projeto do SENAI feito para treinar habilidades com o front-end fazendo um site escolar para melhorar a comunicação entre escolas e alunos, oferecendo funcionalidades essenciais como:
 - Exibição de feriados escolares 🗓️
 - Divulgação de eventos 📢
 - Calendário acadêmico 📆
