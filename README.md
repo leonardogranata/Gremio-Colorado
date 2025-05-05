@@ -1,4 +1,4 @@
-# 📚 Grêmio Colorado - Sistema de Comunicação Escolar
+# 📚 Grêmio Colorado
 
 ## 📌 Sobre o Projeto
 O **Grêmio Colorado** é um projeto do SENAI feito para treinar habilidades com o front-end fazendo um site escolar para melhorar a comunicação entre escolas e alunos, oferecendo funcionalidades essenciais como:
