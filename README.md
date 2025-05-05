@@ -52,6 +52,4 @@ Este projeto utiliza **HTML, CSS e JavaScript** para o front-end, proporcionando
 ---
 
 ## 👨‍💻 Equipe de Desenvolvimento
-🚀 Desenvolvido por estudantes do **SENAI** no curso de **Desenvolvimento de Sistemas**.
-
-📌 **Seja bem-vindo ao Grêmio Colorado!**
+🚀 Desenvolvido por estudantes do **SENAI** no curso de **Desenvolvimento de Sistemas** como teste para uso de HTML, CSS e JavaScript.
