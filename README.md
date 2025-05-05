@@ -17,7 +17,7 @@ Este projeto utiliza **HTML, CSS e JavaScript** para o front-end, proporcionando
 ---
 
 ## 🛠️ Tecnologias Utilizadas
-- **HTML5** 🎨 para estruturação das páginas
+- **HTML5** 🩻 para estruturação das páginas
 - **CSS3** 🎨 para estilização e responsividade
 - **JavaScript** ⚡ para interatividade e funcionalidades dinâmicas
 
